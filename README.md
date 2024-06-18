@@ -14,9 +14,9 @@ This program allows us to enter a number by keyboard where the following conditi
 3) If the value is = 0, it will print on the screen "Try again"
    
 -  ### What programming languages ​​are used; libraries or third-party packages.:
- Python
+ Javascript and html
 - ### What was your motivation?
-Learn more about python.
+Learn more about Javascript and html.
 - ### Why did you build this project?
 To improve my programming logic in addition to applying what I learned in class.
 - ### You learned?
